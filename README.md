@@ -5,41 +5,66 @@ Welcome to my React-powered portfolio website! This is where I showcase my proje
 
 
 ⚡ Features
+
 ✅ Modern & Responsive UI – Built with React & CSS for a seamless experience across all devices.
+
 ✅ Dynamic Animations – Uses AOS (Animate on Scroll) for smooth transitions.
+
 ✅ Interactive Contact Section – Includes links to GitHub, LinkedIn, and Email.
+
 ✅ Projects Showcase – Displays my best work with live demos & source code links.
+
 ✅ Optimized for Performance – Fast loading & SEO-friendly.
 
+
+
 🚀 Live Demo
+
 🔗 View Portfolio Live (Coming Soon!!!)
 
 📂 Installation & Setup
+
 To run this portfolio locally:
 
+
 Clone the repository:
+
                     git clone https://github.com/Tarsha777/Portfolio-using-react.git
                     cd Portfolio-using-react
                     
 Install dependencies:
+
                     npm install
                     
 Start the development server:
+
                     npm start
                     Open http://localhost:3000/ in your browser.
 
 
 🚀 Deployment
+
 Deploy to Vercel or Netlify
+
 Install Vercel CLI (if using Vercel)
+
 npm install -g vercel
+
 vercel
+
 Or deploy via Netlify / GitHub Pages.
 
+
 📬 Contact Me
+
 💼 Portfolio: coming soon!! (have to deploy)
+
 📧 Email: ptst2005@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/tarsha-ponakala
+
 🐙 GitHub: github.com/Tarsha777
+
+
 
 🚀 Like this portfolio? Feel free to fork & customize it! 😎
