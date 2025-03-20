@@ -16,7 +16,7 @@ function Home() {
 
       {/* Hero Image + Contact Section */}
       <div className="hero-image-container" data-aos="zoom-in">
-        <img src="t-moms.jpg" alt="My Photo" className="hero-image" />
+        <img src="t-moms.jpg" alt="" className="hero-image" />
 
         {/* Contact Icons Directly Below the Image */}
         <div className="hero-contact">

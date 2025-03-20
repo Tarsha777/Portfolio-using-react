@@ -40,7 +40,7 @@ const projects = [
     title: "Portfolio",
     description: "The website you're currently viewing, built using React.",
     image: "tst-potfolio-logo.png",
-    github: "https://github.com/Tarsha777/",
+    github: "https://github.com/Tarsha777/Portfolio-using-react/",
     website: "https://yourwebsite.com/shutterbug",
   },
 ];

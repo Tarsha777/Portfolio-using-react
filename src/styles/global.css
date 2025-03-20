@@ -4,40 +4,43 @@
 
 
 .navbar {
-  
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 50px;
-    background: #1a1a2e;
-    color: white;
-  }
-  
-  .logo {
-    font-family: 'Great Vibes', cursive;
-    font-size: 3rem; /* Adjust size as needed */
-    font-weight: normal;
-    height: 55px;
-  }
-  
-  
-  
-  .nav-links {
-    list-style: none;
-    display: flex;
-    gap: 25px;
-  }
-  
-  .nav-links a {
-    text-decoration: none;
-    color: white;
-    font-size: 1.2rem;
-    transition: 0.3s;
-  }
-  
-  .nav-links a:hover {
-    color: #e94560;
-  }
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 50px;
+  background: #1a1a2e;
+  color: white;
+}
+
+.logo {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+  font-weight: normal;
+  height: 55px;
+}
+
+/* Navigation Links */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1px;
+}
+
+/* Updated styles for buttons instead of <a> */
+.nav-links button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.4rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nav-links button:hover {
+  background-color: transparent;
+  color: #ff3b5b;
+}
+
 /*body ........---------------------------------------------------.*/  
 body {
     margin: 0;
@@ -561,7 +564,7 @@ html {
   
   .profile-card:hover {
     transform: scale(1.1);
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(218, 59, 59, 0.2);
   }
   
   .profile-icon {
