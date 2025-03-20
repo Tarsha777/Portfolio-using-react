@@ -21,7 +21,7 @@ Welcome to my React-powered portfolio website! This is where I showcase my proje
 
 🚀 Live Demo
 
-🔗 View Portfolio Live (Coming Soon!!!)
+🔗 View Portfolio Live ((https://tarsha-portfolio.vercel.app/))
 
 📂 Installation & Setup
 
