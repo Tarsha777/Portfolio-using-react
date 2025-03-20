@@ -8,8 +8,7 @@ const projects = [
     title: "ATM",
     description: "A simple ATM system built using Java with a MySQL database.",
     image: "atm-logo.webp",
-    github: "https://github.com/your-github/atm-project",
-    website: "https://yourwebsite.com/atm",
+    
   },
   {
     id: 2,
@@ -25,7 +24,7 @@ const projects = [
     description: "A website for a fictional oil transport company built using HTML, CSS, and JavaScript.",
     image: "green.jpg",
     github: "https://github.com/Tarsha777/KRoilTransport",
-    website: "https://yourwebsite.com/kr-oil-transport",
+    website: "https://tarsha777.github.io/KRoilTransport/",
   },
   {
     id: 4,
@@ -33,7 +32,7 @@ const projects = [
     description: "A photography portfolio website with interactive image galleries.",
     image: "logo1.png",
     github: "https://github.com/Tarsha777/ShutterBug-Portfolio",
-    website: "https://yourwebsite.com/shutterbug",
+    website: "https://tarsha777.github.io/ShutterBug-Portfolio/",
   },
   {
     id: 5,
@@ -41,7 +40,7 @@ const projects = [
     description: "The website you're currently viewing, built using React.",
     image: "tst-potfolio-logo.png",
     github: "https://github.com/Tarsha777/Portfolio-using-react/",
-    website: "https://yourwebsite.com/shutterbug",
+    website: "https://tarsha-portfolio.vercel.app/",
   },
 ];
 
