@@ -3,30 +3,58 @@
 
 
 
+/* Default Navbar Styling */
 .navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 95%;
+  background: transparent; /* Initially transparent */
+  padding: 15px 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 50px;
-  background: #1a1a2e;
-  color: white;
+  z-index: 1000;
+  transition: all 0.3s ease-in-out;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
+/* Navbar when scrolling */
+.navbar.scrolled {
+  background: rgba(26, 26, 46, 0.9);  /* Darker background on scroll */
+  padding: 10px 50px;  /* Shrink navbar slightly */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Smooth shadow */
+}
+
+/* Logo Styling */
 .logo {
-  font-family: 'Great Vibes', cursive;
-  font-size: 3rem;
-  font-weight: normal;
+  
+ 
   height: 55px;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar.scrolled .logo {
+  font-size: 2.5rem;  /* Shrink logo on scroll */
+}
+
+.menu-icon {
+  display: none;
+ padding-right: 50px;
+  cursor: pointer;
+  color: white;
 }
 
 /* Navigation Links */
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 1px;
+  gap: 10px;
+  
 }
 
-/* Updated styles for buttons instead of <a> */
+/* Updated styles for buttons */
 .nav-links button {
   background: none;
   border: none;
@@ -40,6 +68,36 @@
   background-color: transparent;
   color: #ff3b5b;
 }
+
+/* Responsive Navbar */
+@media (max-width: 768px) {
+  .menu-icon {
+    display: block;
+  }
+
+  .nav-links {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background: rgba(26, 26, 46, 0.95);
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    gap: 15px;
+    transform: translateY(-200%);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .nav-links.open {
+    transform: translateY(0);
+  }
+
+  .nav-links button {
+    font-size: 1.2rem;
+  }
+}
+
 
 /*body ........---------------------------------------------------.*/  
 
