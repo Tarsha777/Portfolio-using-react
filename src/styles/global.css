@@ -42,6 +42,7 @@
 }
 
 /*body ........---------------------------------------------------.*/  
+
 body {
     margin: 0;
     padding: 0;
@@ -69,6 +70,7 @@ body {
   /* Smooth Scrolling */
 html {
   scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
 }
 
 /* Hero Section */

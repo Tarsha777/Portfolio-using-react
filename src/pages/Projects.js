@@ -42,6 +42,14 @@ const projects = [
     github: "https://github.com/Tarsha777/Portfolio-using-react/",
     website: "https://tarsha-portfolio.vercel.app/",
   },
+  {
+    id: 6,
+    title: "Habit Tracker (In Progress)",
+    description: "A habit tracker app built using MERN Stack. This app helps you to track your habits and maintain a streak. It is under development.",
+    image: "Habit Tracker.jpg",
+    github: "https://github.com/Tarsha777/Habit-tracker-MERN",
+   /* website: "",*/
+  },
 ];
 
 function Projects() {
