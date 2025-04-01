@@ -1,6 +1,6 @@
 🌟 My Portfolio 🚀 | Built with React
 
-Welcome to my React-powered portfolio website! This is where I showcase my projects, skills, and achievements in a sleek and interactive way. If you're a recruiter, developer, or just someone who stumbled upon this—welcome! 🎉
+Welcome to my React-powered portfolio website! This is where I showcase my projects, skills, and achievements in a sleek and interactive way. If you're a recruiter, developer, or just someone who stumbled upon this, welcome! 🎉
 
 ![image](https://github.com/user-attachments/assets/9a0f86f3-b3bd-4d60-925a-513c2e211589)
 
