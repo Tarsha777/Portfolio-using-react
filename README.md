@@ -58,7 +58,7 @@ Or deploy via Netlify / GitHub Pages.
 
 📬 Contact Me
 
-💼 Portfolio: coming soon!! (have to deploy)
+💼 Portfolio:https://tarsha-portfolio.vercel.app/
 
 📧 Email: ptst2005@gmail.com
 
