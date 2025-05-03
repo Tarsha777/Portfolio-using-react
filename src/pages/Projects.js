@@ -24,7 +24,7 @@ const projects = [
     description: "A website for a fictional oil transport company built using HTML, CSS, and JavaScript.",
     image: "green.jpg",
     github: "https://github.com/Tarsha777/KRoilTransport",
-    website: "https://tarsha777.github.io/KRoilTransport/",
+    website: "https://kr-oil-transport.vercel.app/",
   },
   {
     id: 4,
