@@ -19,7 +19,6 @@ Welcome to my React-powered portfolio website! This is where I showcase my proje
 
 
 
-🚀 Live Demo
 
 🔗 View Portfolio Live ((https://tarsha-portfolio.vercel.app/))
 
@@ -43,17 +42,6 @@ Start the development server:
                     Open http://localhost:3000/ in your browser.
 
 
-🚀 Deployment
-
-Deploy to Vercel or Netlify
-
-Install Vercel CLI (if using Vercel)
-
-npm install -g vercel
-
-vercel
-
-Or deploy via Netlify / GitHub Pages.
 
 
 📬 Contact Me
