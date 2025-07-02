@@ -25,12 +25,12 @@ function Skills() {
 
         <div className="skill">
           <h2>Big Data & Cloud</h2>
-          <p>Hadoop, Spark, Cloud Services, Cloud Computing, Network Security </p>
+          <p>Cloud Services, Cloud Computing, Network Security </p>
         </div>
 
         <div className="skill">
           <h2>Other Skills</h2>
-          <p>Git, GitHub, Linux, Agile, Problem Solving</p>
+          <p>Git, GitHub, Iot, Linux, Agile, Problem Solving</p>
         </div>
       </section>
 

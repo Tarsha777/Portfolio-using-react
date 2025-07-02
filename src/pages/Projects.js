@@ -6,22 +6,22 @@ const projects = [
   {
     id: 1,
     title: "ATM",
-    description: "A simple ATM system built using Java with a MySQL database.",
+    description: "A simple ATM system built using C which simulates the working of an ATM machine.",
     image: "atm-logo.webp",
     
   },
   {
     id: 2,
-    title: "Self-Driving Car",
-    description: "A Raspberry Pi-based self-driving car with GPS, real-time navigation, and object detection.",
+    title: "Autonomous Car Prototype",
+    description: "A Raspberry Pi-based self-driving car with GPS, real-time navigation, and object detection.  This is a functional self-driving vehicle prototype capable of autonomous navigation, obstacle detection, and lane tracking using real-time computer vision and IoT integration. Integrated a web dashboard for monitoring the car's operations.",
     image: "3790289.png",
-   /* github: "https://github.com/your-github/self-driving-car",*/
+    github: "https://github.com/Tarsha777/Autonomous_Car_Prototype",
     website: "https://www.linkedin.com/posts/tarsha-ponakala_we-have-developed-an-advanced-self-driving-activity-7307990279079215105-Fs53?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgZ_I8BzICTCwPCkm4MacCwXmq1zo4GlFM",
   },
   {
     id: 3,
     title: "KR Oil Transport Website",
-    description: "A website for a fictional oil transport company built using HTML, CSS, and JavaScript.",
+    description: "Developed a web-based logistics platform for real-time tanker booking and transport management. The system simplifies tanker scheduling and automates pricing based on distance and tanker type.  ",
     image: "green.jpg",
     github: "https://github.com/Tarsha777/KRoilTransport",
     website: "https://kr-oil-transport.vercel.app/",
@@ -29,7 +29,7 @@ const projects = [
   {
     id: 4,
     title: "Shutterbug",
-    description: "A photography portfolio website with interactive image galleries.",
+    description: "Designed and developed a responsive, visually engaging website to showcase photography work and projects.",
     image: "logo1.png",
     github: "https://github.com/Tarsha777/ShutterBug-Portfolio",
     website: "https://tarsha777.github.io/ShutterBug-Portfolio/",
